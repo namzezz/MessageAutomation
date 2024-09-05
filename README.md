@@ -32,8 +32,7 @@ This project automates the process of scraping professional data from LinkedIn p
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/MessageAutomationBot
-.git
+   git clone https://github.com/yourusername/MessageAutomationBot.git
    cd MessageAutomationBot
    ```
 
